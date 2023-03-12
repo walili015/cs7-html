@@ -1,0 +1,14 @@
+{
+  "AdsController": {
+    "adNetwork": "applovin",
+    "admobBanner": "banner-capub-99999",
+    "admobInterstitial": "inter-capub-8888",
+    "applovinBanner": "banner99999999",
+    "applovinInterstitial": "inter88888",
+    "unityGameId": "",
+    "testMode": false,
+    "unityBanner": "",
+    "unityInterstitial": "",
+    "reviewActive": true
+  }
+}
